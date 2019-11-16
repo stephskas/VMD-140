@@ -186,7 +186,7 @@ input[type=submit] {
 input[type=submit] {
     background-color: #EF583A;
     border: 1px solid #EF583A;
-    opacity: .85;
+    opacity: .8;
     color: #000;
     margin: 20px 15px 10px 0;
 }
@@ -207,6 +207,7 @@ input[type=submit]:active {
 .btn-full:hover,
 .btn-full:active {
     border: 1px solid #EF583A;
+    opacity: 1;
 }
 
 .btn-ghost:hover,
