@@ -213,8 +213,6 @@ input[type=submit]:active {
 .btn-ghost:active {
     border: 1px solid #EF583A;
     color: #F4F4F4;
-    margin: 20px 0 10px 0;
-
 }
 
 /* ----------------------------------------------- */
